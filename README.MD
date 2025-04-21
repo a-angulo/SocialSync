@@ -1,6 +1,7 @@
 # 🧠 SocialSync – A NoSQL-Powered Social Network API for developers
 
 > Connect users, share thoughts, and react in real-time — all through the power of MongoDB and Mongoose!
+---
 
 ![license-badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -21,7 +22,7 @@
 ## 📝 Description  
 
 Tired of social media platforms that don’t let you own the backend?  
-**SocialSync** is a backend-only social network API built with Express and MongoDB.  
+**SocialSync** is a backend-only social network for developers with API built with Express and MongoDB.  
 Users can share their thoughts, react to others, and grow their network of friends — all without a UI! Perfect for mastering NoSQL relationships and RESTful routing. 🧠⚙️
 
 ---
@@ -47,7 +48,7 @@ Users can share their thoughts, react to others, and grow their network of frien
 
 Start the server:  
 ```bash
-npm run dev
+npm start
 ```
 
 Use **Insomnia** or **Postman** to interact with the API at:  
